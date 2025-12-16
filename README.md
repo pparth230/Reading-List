@@ -17,6 +17,8 @@
 - [Stanford 234 Reinforcement Learning](https://youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX&si=l02Jwnq3BHZBuaxU) - Stanford | Spring, 2024
 - [Robot Learning: A Tutorial](https://huggingface.co/spaces/lerobot/robot-learning-tutorial) - Hugging Face | Oct, 2025
 - [Stanford CS231N Deep Learning for Computer Vision](https://youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16&si=m159k2GtqbwHzMgL) - Stanford | Oct, 2025
+- [Essence of Calculus](https://youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&si=Ul6goo1VgheBKRny) - 3Blue1Brown
+- [Essence of Linear Algebra](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=Aq0wQaoAZKCzxTUF) - 3Blue1Brown
 
 ## 3️⃣Technical Books
 
