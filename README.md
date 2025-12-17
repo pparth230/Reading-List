@@ -29,6 +29,7 @@
 
 ### Mathematics
 - [Calculus, an intuitive and Physical Approach](https://www.amazon.com/Calculus-Intuitive-Physical-Approach-Mathematics/dp/0486404536) - Moris Kline | June, 1998
+- [First course in probability, 8th edition](https://chengzhaoxi.xyz/download/pdf/book/A-First-Course-in-Probability.pdf)- Sheldon Ross | 2009
 
 ## 4️⃣ Projects
 - [The Robotroller](https://robotroller.keenagi.com/)- Keen AGI
