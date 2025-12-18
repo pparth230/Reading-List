@@ -26,6 +26,8 @@
 
 ### Reinforcement Learning
 - [Reinforcement Learning, Second Edition: An Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) - Richard S. Sutton and Andrew G. Barto | 2018 
+
+### Supervised Learning
 - [Hands-On Machine Learning with Scikit-Learn and PyTorch](https://www.oreilly.com/library/view/hands-on-machine-learning/9798341607972/) - Aurélien Géron | Oct, 2025
 
 ### Mathematics
