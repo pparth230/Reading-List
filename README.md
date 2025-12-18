@@ -4,6 +4,7 @@
 
 ### Reinforcement Learning
 - [Design and Control of a Bipedal Robotic Character](https://la.disneyresearch.com/publication/design-and-control-of-a-bipedal-robotic-character/) -  Disney | July, 2024
+- [Proximal Policy Optimization Algorithms](https://arxiv.org/pdf/1707.06347)- Open AI | 2017
 
 ### Supervised Learning
 - [Attention Is All You Need](https://arxiv.org/pdf/1706.03762) - Google Brain | Revised Aug 2, 2023
