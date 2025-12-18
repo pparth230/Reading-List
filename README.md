@@ -36,6 +36,7 @@
 
 ## 5️⃣ Blogs
 - [Millions of new materials discovered with deep learning](https://deepmind.google/blog/millions-of-new-materials-discovered-with-deep-learning/)- Deepmind | Nov, 2023
+- [Kaparthy on shortification of learing](https://x.com/karpathy/status/1756380066580455557?s=20)- Andrew Kaparhty via X | Fev, 2024
 
 
 
