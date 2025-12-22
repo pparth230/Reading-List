@@ -15,6 +15,7 @@
 - [ELEGNT: Expressive and Functional Movement Design for Non-anthropomorphic Robot](https://arxiv.org/pdf/2501.12493)- Apple | Jan, 2025
 - [Olaf: Bringing an Animated Character to Life in the Physical World](https://arxiv.org/pdf/2512.16705)- Disney | Dec, 2025
 - [Emys—emotive head of a social robot](https://link.springer.com/content/pdf/10.1007/s12369-013-0183-1.pdf)- 2013
+- [What Can a Robot’s Skin Be? Designing Texture-changingSkin for Human–Robot Social Interaction](https://dl.acm.org/doi/epdf/10.1145/3532772)- 2019
 
 ## 2️⃣ Tutorials | Courses
 - [Stanford 224R Deep Reinforcement Learning](https://youtube.com/playlist?list=PLoROMvodv4rPwxE0ONYRa_itZFdaKCylL&si=xWXSvxLo53toy4CI) - Stanford | Dec, 2025
