@@ -14,6 +14,7 @@
 - [Robot Motion Diffusion Model: Motion Generation for Robotic Characters](https://la.disneyresearch.com/publication/robot-motion-diffusion-model-motion-generation-for-robotic-characters/)- Diseny | July 2024
 - [ELEGNT: Expressive and Functional Movement Design for Non-anthropomorphic Robot](https://arxiv.org/pdf/2501.12493)- Apple | Jan, 2025
 - [Olaf: Bringing an Animated Character to Life in the Physical World](https://arxiv.org/pdf/2512.16705)- Disney | Dec, 2025
+- [Emys—emotive head of a social robot](https://link.springer.com/content/pdf/10.1007/s12369-013-0183-1.pdf)- 2013
 
 ## 2️⃣ Tutorials | Courses
 - [Stanford 224R Deep Reinforcement Learning](https://youtube.com/playlist?list=PLoROMvodv4rPwxE0ONYRa_itZFdaKCylL&si=xWXSvxLo53toy4CI) - Stanford | Dec, 2025
