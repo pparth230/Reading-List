@@ -9,7 +9,7 @@
 ### Supervised Learning
 - [Attention Is All You Need](https://arxiv.org/pdf/1706.03762) - Google Brain | Revised Aug 2, 2023
 
-### Robotics
+### Robotics 🤖
 - [Interactive Design of Stylized Walking Gaits for Robotic Characters](https://la.disneyresearch.com/publication/interactive-design-of-stylized-walking-gaits-for-robotic-characters/) - Disney | July, 2024
 - [Robot Motion Diffusion Model: Motion Generation for Robotic Characters](https://la.disneyresearch.com/publication/robot-motion-diffusion-model-motion-generation-for-robotic-characters/)- Diseny | July 2024
 - [ELEGNT: Expressive and Functional Movement Design for Non-anthropomorphic Robot](https://arxiv.org/pdf/2501.12493)- Apple | Jan, 2025
@@ -24,8 +24,12 @@
 - [Stanford CS231N Deep Learning for Computer Vision](https://youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16&si=m159k2GtqbwHzMgL) - Stanford | Oct, 2025
 - [Essence of Calculus](https://youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&si=Ul6goo1VgheBKRny) - 3Blue1Brown
 - [Essence of Linear Algebra](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=Aq0wQaoAZKCzxTUF) - 3Blue1Brown
+- [Underactuated Robotics](https://www.youtube.com/watch?v=uyyBT-MHhLE&list=PLkx8KyIQkMfU5szP43GlE_S1QGSPQfL9s&index=1) - MIT | 2024
 
 ## 3️⃣Technical Books
+
+### Deep Learning
+- [Understanding Deep Learning](https://udlbook.github.io/udlbook/) - Prince | 2025
 
 ### Reinforcement Learning
 - [Reinforcement Learning, Second Edition: An Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) - Richard S. Sutton and Andrew G. Barto | 2018 
