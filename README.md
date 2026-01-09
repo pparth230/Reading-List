@@ -10,6 +10,7 @@
 - [Attention Is All You Need](https://arxiv.org/pdf/1706.03762) - Google Brain | Revised Aug 2, 2023
 
 ### Robotics 🤖
+- [Autonomous Human-Robot Interaction via Operator Imitation](https://la.disneyresearch.com/wp-content/uploads/Autonomous_Operator_Camera.pdf)- Disney | Oct 2025
 - [Interactive Design of Stylized Walking Gaits for Robotic Characters](https://la.disneyresearch.com/publication/interactive-design-of-stylized-walking-gaits-for-robotic-characters/) - Disney | July, 2024
 - [Robot Motion Diffusion Model: Motion Generation for Robotic Characters](https://la.disneyresearch.com/publication/robot-motion-diffusion-model-motion-generation-for-robotic-characters/)- Diseny | July 2024
 - [ELEGNT: Expressive and Functional Movement Design for Non-anthropomorphic Robot](https://arxiv.org/pdf/2501.12493)- Apple | Jan, 2025
