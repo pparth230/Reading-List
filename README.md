@@ -2,7 +2,7 @@
 
 ## 1️⃣ Papers
 
-###Self-Replication, Cellular automata
+### Self-Replication, Cellular automata
 - Theory of Cellular Automata - John von Neumann | 1940
 
 ### Reinforcement Learning
