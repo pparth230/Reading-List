@@ -2,6 +2,9 @@
 
 ## 1️⃣ Papers
 
+###Self-Replication, Cellular automata
+- Theory of Cellular Automata - John von Neumann | 1940
+
 ### Reinforcement Learning
 - [Design and Control of a Bipedal Robotic Character](https://la.disneyresearch.com/publication/design-and-control-of-a-bipedal-robotic-character/) -  Disney | July, 2024
 - [Proximal Policy Optimization Algorithms](https://arxiv.org/pdf/1707.06347)- Open AI | 2017
